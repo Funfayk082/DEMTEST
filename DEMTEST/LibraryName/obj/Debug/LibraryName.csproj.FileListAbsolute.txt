@@ -1,0 +1,6 @@
+C:\Users\Администратор\Desktop\project\DEMTEST\DEMTEST\LibraryName\bin\Debug\LibraryName.dll
+C:\Users\Администратор\Desktop\project\DEMTEST\DEMTEST\LibraryName\bin\Debug\LibraryName.pdb
+C:\Users\Администратор\Desktop\project\DEMTEST\DEMTEST\LibraryName\obj\Debug\LibraryName.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\project\DEMTEST\DEMTEST\LibraryName\obj\Debug\LibraryName.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\project\DEMTEST\DEMTEST\LibraryName\obj\Debug\LibraryName.dll
+C:\Users\Администратор\Desktop\project\DEMTEST\DEMTEST\LibraryName\obj\Debug\LibraryName.pdb
